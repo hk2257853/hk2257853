@@ -1,69 +1,77 @@
-# 👋 Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
-<div align="center">
-  
-### Hi there! I'm **hk2257853**
-*Passionate developer | Problem solver | Continuous learner*
+<p align="center">
+  <b>Software Engineer • Backend • Distributed Systems • AI</b>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/hk2257853?style=social)](https://github.com/hk2257853)
-[![GitHub User's stars](https://img.shields.io/github/stars/hk2257853?style=social)](https://github.com/hk2257853)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer dedicated to building amazing projects and contributing to the open-source community. I love solving complex problems and continuously learning new technologies to stay at the forefront of innovation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-k-64638a1b4">LinkedIn</a> •
+  <a href="https://harshk-portfolio.netlify.app/">Portfolio</a> •
+  <a href="mailto:harshwork474@gmail.com">Email</a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 👨‍💻 About
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+Software Engineer building <b>backend systems, distributed applications, and AI-powered engineering tools</b>.
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+Currently working with <b>Java, Spring Boot, Microservices, Kafka, Redis, PostgreSQL, Python, AWS, and LLMs</b>.
+
+I enjoy turning complex engineering problems and repetitive workflows into simple, automated systems.
 
 ---
 
-## 🎯 Current Focus
+### 🛠️ Tech Stack
 
-- 🔭 Building innovative projects
-- 📚 Continuously learning new technologies
-- 🤝 Contributing to open-source
-- 💡 Sharing knowledge with the community
-
----
-
-## 📫 Get in Touch
-
-- 📧 **Email:** [harshwork474@gmail.com](mailto:harshwork474@gmail.com)
-- 💼 **LinkedIn:** [harsh-k-64638a1b4](https://www.linkedin.com/in/harsh-k-64638a1b4)
-- 🌐 **Portfolio:** [harshk-portfolio.netlify.app](https://harshk-portfolio.netlify.app/)
+<b>Languages:</b> Java • Python • JavaScript  
+<b>Backend:</b> Spring Boot • Microservices • REST APIs • FastAPI  
+<b>Data:</b> PostgreSQL • Redis • Kafka  
+<b>Cloud:</b> AWS • Docker  
+<b>AI:</b> LLMs • RAG • LangGraph • LangChain • MCP  
+<b>Frontend:</b> React • Next.js
 
 ---
 
-## 🏆 Highlights
+### 🚀 Featured Projects
 
-- Passionate about clean code and best practices
-- Strong problem-solving skills
-- Team player with excellent communication
-- Always eager to learn and grow
+#### <a href="https://github.com/hk2257853/genai-service-platform">GenAI Service Platform</a>
+
+Production-grade GenAI backend with <b>hybrid RAG, reranking, LangGraph agents, MCP tools, and automated evaluation</b>.
+
+#### <a href="https://github.com/hk2257853/ecommerce-microservices-backend">E-Commerce Microservices Backend</a>
+
+Scalable Java backend with <b>Spring Boot, Kafka, Redis, PostgreSQL, Docker, rate limiting, and distributed workflows</b>.
+
+#### <a href="https://github.com/hk2257853/Java-lld-playground">Java LLD Playground</a>
+
+Practical implementations of <b>Low-Level Design patterns and principles in Java</b>.
 
 ---
 
-<div align="center">
-  
-### ⭐ If you find my work interesting, consider giving it a star! ⭐
+### 🏆 Achievements
 
-*Thanks for visiting my profile!*
+- 🏅 <b>ICPC 2023 Regionalist — Rank 221</b>
+- ⭐ <b>CodeChef — 1704 (3★)</b>
+- 🏆 <b>9+ coding competitions & hackathons</b>
+- 🥇 Multiple <b>1st-place</b> finishes
+- 🥉 Top-3 finishes at <b>IIT Goa & NIT Goa</b>
 
-</div>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hk2257853&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=hk2257853&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk2257853&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Automate. Experiment.</i>
+</p>
