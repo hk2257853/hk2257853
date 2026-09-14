@@ -62,12 +62,7 @@ Practical implementations of <b>Low-Level Design patterns and principles in Java
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hk2257853&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=hk2257853&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk2257853&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hk2257853&show_icons=true&hide_border=true&theme=tokyonight&hide=issues,prs&include_all_commits=true" />
 </p>
 
 ---
