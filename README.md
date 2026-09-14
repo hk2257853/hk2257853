@@ -59,14 +59,6 @@ Practical implementations of <b>Low-Level Design patterns and principles in Java
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=hk2257853&theme=dark&hide=prs,commits,forks,contributed,issues&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>Build. Automate. Experiment.</i>
 </p>
