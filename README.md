@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-k-64638a1b4">LinkedIn</a> •
-  <a href="https://harshk-portfolio.netlify.app">Portfolio</a> •
+  <a href="https://hk2257853.github.io/">Portfolio</a> •
   <a href="mailto:harshwork474@gmail.com">Email</a>
 </p>
 
