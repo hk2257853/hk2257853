@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 
 <p align="center">
-  <b>Software Engineer • Backend • Distributed Systems • AI</b>
+  <b>Software Engineer | Backend | Distributed Systems | AI</b>
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@ Practical implementations of <b>Low-Level Design patterns and principles in Java
 
 ### 🏆 Achievements
 
-- 🏅 <b>ICPC 2023 Regionalist — Rank 221</b>
-- ⭐ <b>CodeChef — 1704 (3★)</b>
+- 🏅 <b>ICPC 2023 Regionalist - Rank 221</b>
+- ⭐ <b>CodeChef - 1704 (3★)</b>
 - 🏆 <b>9+ coding competitions & hackathons</b>
 - 🥇 Multiple <b>1st-place</b> finishes
 - 🥉 Top-3 finishes at <b>IIT Goa & NIT Goa</b>
