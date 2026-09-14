@@ -34,18 +34,6 @@ I'm a passionate developer dedicated to building amazing projects and contributi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hk2257853&theme=radical&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hk2257853&theme=radical&layout=compact)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 Building innovative projects
@@ -57,11 +45,9 @@ I'm a passionate developer dedicated to building amazing projects and contributi
 
 ## 📫 Get in Touch
 
-Feel free to reach out to me on:
-- 📧 Email: [Add your email here]
-- 💼 LinkedIn: [Add your LinkedIn profile]
-- 🌐 Portfolio: [Add your portfolio link]
-- 🐦 Twitter: [Add your Twitter handle]
+- 📧 **Email:** [harshwork474@gmail.com](mailto:harshwork474@gmail.com)
+- 💼 **LinkedIn:** [harsh-k-64638a1b4](https://www.linkedin.com/in/harsh-k-64638a1b4)
+- 🌐 **Portfolio:** [harshk-portfolio.netlify.app](https://harshk-portfolio.netlify.app/)
 
 ---
 
